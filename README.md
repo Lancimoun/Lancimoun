@@ -9,6 +9,7 @@
 [![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=flat-square)](https://qdrant.tech)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway)](https://railway.app)
+[![Langfuse](https://img.shields.io/badge/Langfuse-LLM_Observability-000000?style=flat-square)](https://langfuse.com)
 
 ---
 
@@ -27,9 +28,17 @@ I build **production AI systems** — not demos, not wrappers, not tutorials.
 ## Featured Projects
 
 ### 🔱 Project Maxima V3 — Personal AI Operating System
-> 23,902 lines · Python · Claude API · RAG · Qdrant · APScheduler · IBKR API · Local LLM (GPU)
+> 23,902 lines · Python · Claude Haiku 4.5 / Sonnet 4.6 / Opus 4.7 · RAG · Qdrant · Temporal Graph · MCP · Langfuse
 
-A complete AI OS built from scratch: multi-layer memory, semantic search across thousands of entries, GPU-accelerated local LLM fallback, live portfolio tracking, FIRE retirement calculator, habit loops, and a guardian watchdog process. Deployed live via Telegram.
+A complete personal AI OS running 24/7 on Railway Cloud. Smart model routing, multi-layer memory, hybrid semantic search, temporal knowledge graph, and full LLM observability with cost and latency tracking per session. 219 tools. 10 scheduled jobs. Local LLM fallback. Deployed live via Telegram.
+
+**May 2026 upgrades shipped:**
+- Prompt caching — 50-70% API cost reduction
+- Adaptive thinking on Sonnet 4.6
+- Temporal knowledge graph (facts with validity windows)
+- Hybrid vector search (BM25 + dense, RRF fusion)
+- MCP Server — tools exposed natively to Claude Code
+- Langfuse observability — full trace/cost/latency analytics
 
 ---
 
@@ -56,10 +65,11 @@ A full AI companion product with personalized memory, dynamic personality states
 ## Tech Stack
 
 ```
-AI / ML      │  Claude API · RAG Architecture · Qdrant Vector DB · OpenAI API · Local LLM (GPU)
-Language     │  Python (Advanced — production systems)
-Backend      │  FastAPI · REST APIs · SSE Streaming · APScheduler · Docker
-Infra        │  Railway · Telegram Bot Infrastructure · IBKR API · Git/GitHub
+AI / ML      │  Claude API (Haiku · Sonnet · Opus) · RAG · Qdrant (hybrid BM25+dense) · Voyage AI · Local LLM
+Memory       │  Vector DB · Temporal Knowledge Graph · Prompt Caching · Adaptive Thinking
+Observability│  Langfuse v4 · LLM tracing · cost/latency per session · token analytics
+Backend      │  FastAPI · REST APIs · SSE Streaming · MCP Server · APScheduler · Docker
+Infra        │  Railway · Telegram Bot · Neo4j AuraDB · GitHub Sync · IBKR API
 Networking   │  CCNA: Switching, Routing & Wireless Essentials
 ```
 
