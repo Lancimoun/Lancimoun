@@ -5,7 +5,7 @@
 
 [![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-cc785c?style=flat-square)](https://anthropic.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4.1-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.5-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=flat-square)](https://qdrant.tech)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
@@ -44,13 +44,13 @@ A complete personal AI OS running 24/7 on Railway Cloud. Smart model routing, mu
 ---
 
 ### 🚀 Axiom AI — Production Quad-Provider AI API
-> FastAPI · Claude · GPT-4.1 · Gemini 2.5 · Groq · 9 Models · SSE Streaming · Railway · Docker
+> FastAPI · Claude · GPT-5.5 · Gemini 3.5 Flash · Groq · 9 Models · SSE Streaming · Railway · Docker
 
 [![Live](https://img.shields.io/badge/Live-axiom--ai.railway.app-0B0D0E?style=flat-square&logo=railway)](https://axiom-ai-production-aaec.up.railway.app)
 [![Docs](https://img.shields.io/badge/Docs-API_Reference-6366f1?style=flat-square)](https://axiom-ai-production-aaec.up.railway.app/docs)
 [![Repo](https://img.shields.io/badge/GitHub-axiom--ai-181717?style=flat-square&logo=github)](https://github.com/Lancimoun/axiom-ai)
 
-A quad-provider REST API routing to **Claude, GPT-4.1, Gemini 2.5, or Groq** behind a single unified interface. 4 providers, 9 models, one endpoint. Switch models per-request with a single field — no SDK swaps, no re-implementation. Features real-time SSE streaming, multi-turn session memory, RAG context injection, usage analytics, rate limiting, and API key auth.
+A quad-provider REST API routing to **Claude, GPT-5.5, Gemini 3.5 Flash, or Groq** behind a single unified interface. 4 providers, 9 models, one endpoint. Switch models per-request with a single field — no SDK swaps, no re-implementation. Features real-time SSE streaming, multi-turn session memory, RAG context injection, usage analytics, rate limiting, and API key auth.
 
 `/ask` · `/chat` · `/stream` · `/models` · `/session/{id}` · `/health`
 
@@ -67,7 +67,7 @@ A full AI companion product with personalized memory, dynamic personality states
 ## Tech Stack
 
 ```
-AI / ML      │  Claude API (Haiku · Sonnet · Opus) · GPT-4.1 · Gemini 2.5 · Groq LPU · RAG · Qdrant · Local LLM
+AI / ML      │  Claude API (Haiku · Sonnet · Opus) · GPT-5.5 · Gemini 3.5 Flash · Groq LPU · RAG · Qdrant · Local LLM
 Memory       │  Vector DB · Temporal Knowledge Graph · Prompt Caching · Adaptive Thinking
 Observability│  Langfuse v4 · LLM tracing · cost/latency per session · token analytics
 Backend      │  FastAPI · REST APIs · SSE Streaming · MCP Server · APScheduler · Docker
