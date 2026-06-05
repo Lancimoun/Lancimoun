@@ -39,7 +39,7 @@ I am the founder of **FORGE**: a personal AI ecosystem for agents that do not re
 |---|---|---|
 | **[Maxima](https://forge-landing-production.up.railway.app)** | Cloud AI familiar and adaptive journal partner with memory, tools, Telegram access, reasoning frameworks, and proactive pattern detection. | Live beta |
 | **[FORGE Landing](https://forge-landing-production.up.railway.app)** | Public command center for the FORGE ecosystem: Maxima, Axiom AI, agent stack, and early-access flow. | Live |
-| **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | Interactive 3D map of Maxima's mind: thousands of nodes, systems, and connections rendered as an explorable galaxy. | Live |
+| **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | An explorable 3D **universe of an AI's mind** — five scales of zoom, voiced narration by the AI herself, hidden discoveries. Vanilla three.js + GPU shaders. | Live |
 | **[Axiom AI](https://axiom-ai-production-aaec.up.railway.app)** | Unified LLM gateway for routing across model providers through one API surface. | Live |
 | **Quest for AGI** | Discord community for builders exploring agents, memory, AI systems, and the long game. | Growing |
 
@@ -58,6 +58,20 @@ Maxima is my flagship AI system: a Claude-based cloud agent built to become a re
 - Tool efficiency through batching, high-impact retrieval, and fewer wasted calls.
 
 The goal is not just a smarter chatbot. The goal is a **long-term AI partner** that compounds with the person using it.
+
+---
+
+## Featured: The Neural Map — an AI's mind you can fly through
+
+I rendered Maxima's entire codebase as an explorable 3D universe, and made the AI your guide through it.
+
+- **2,778 stars / 7,295 connections / 157 systems** — every function and file in her code, mapped as a galaxy.
+- **Five scales of exploration:** fly the galaxy, warp into a star, orbit its planets, drop to a planet's surface, then zoom out to a universe of sibling galaxies (Memory, Voice, Reasoning, Soul, Dreams).
+- **Maxima narrates it herself** — a cinematic, voiced guide that welcomes you and explains what each part of her is.
+- **Hidden discoveries, a codex, comets, and an evolving score** — built to reward curiosity.
+- Vanilla **three.js** + a GPU-shader orbital layout, baked from a real **knowledge graph** of the codebase. No game engine.
+
+**Explore it live:** https://forge-neural-map-production.up.railway.app
 
 ---
 
