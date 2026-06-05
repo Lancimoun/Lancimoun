@@ -1,54 +1,87 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;AI+Systems+Engineer;Founder+of+FORGE;Building+AI+agents+in+public" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;Mid+AI+Engineer+building+agentic+systems;Founder+of+FORGE;Building+Maxima%2C+Axiom+AI%2C+and+Neural+Maps" alt="typing" />
 
-### Building production AI agents — memory, autonomy, the ability to act.
+### Building long-horizon AI agents: memory, reasoning, tools, and autonomy.
 
 <a href="https://www.linkedin.com/in/lance-jilliard-galicia-8b5b99312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lancejilliard.galicia@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Philippines-1a1a1a?style=for-the-badge&logo=googlemaps&logoColor=E85C2F" />
 <img src="https://img.shields.io/badge/Open%20to%20Remote-E85C2F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Systems-Builder-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=E85C2F" />
 
-<a href="https://forge-landing-production.up.railway.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20FORGE-Live-E85C2F?style=for-the-badge&labelColor=1a1a1a" /></a>
-<a href="https://axiom-ai-production-aaec.up.railway.app"><img src="https://img.shields.io/badge/%E2%9A%A1%20Axiom%20AI-Live-F5A623?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://forge-landing-production.up.railway.app"><img src="https://img.shields.io/badge/FORGE-Live-E85C2F?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://forge-neural-map-production.up.railway.app/"><img src="https://img.shields.io/badge/Neural%20Map-Live-38D9FF?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://axiom-ai-production-aaec.up.railway.app"><img src="https://img.shields.io/badge/Axiom%20AI-Live-F5A623?style=for-the-badge&labelColor=1a1a1a" /></a>
 
 </div>
 
 ---
 
-I build **production AI agents** — not demos, not wrappers. I'm the founder of **FORGE** (*Frontier, Orchestrate, Reason, Guide & Execute*) — a company making **AI familiars**: personalized agents that remember who you are, reason on your behalf, and execute so you can focus on what only you can do.
+I build **production AI systems** that remember, reason, and act across sessions. My current focus is **long-horizon agent reliability**: persistent memory, retrieval quality, tool execution, evaluation, observability, and the human layer that makes an AI partner useful in real life.
+
+I am the founder of **FORGE**: a personal AI ecosystem for agents that do not reset when the conversation ends.
 
 ---
 
-## 🔱 What I'm Building
+## Current Focus
 
-**🧠 [Maxima](https://forge-landing-production.up.railway.app) — Personal AI Familiar**
-A full agentic AI live on Telegram & Discord. *26,000+ lines of Python.* Not a chatbot — an agent:
-`4-layer memory + Graphiti temporal graph + Qdrant hybrid search` · `Goal agent that decomposes & drives long-horizon goals` · `Expert modes` · `Self-verification` · `Voice in/out` · `208+ tools`
-
-**⚡ [Axiom AI](https://axiom-ai-production-aaec.up.railway.app) — Unified LLM Gateway**
-One clean REST API across Claude · GPT · Gemini · Groq — routing, cost optimization, streaming. *Live & open-access.*
+- **Agent memory that can be corrected**: current-truth layers, stale-data caveats, hybrid recall, and long-term journal continuity.
+- **Decision-making transparency**: showing options, trade-offs, risks, confidence, and the decider before recommendations.
+- **Tool-using AI systems**: web, Telegram, Railway, APIs, finance, knowledge graphs, and batched execution.
+- **AI engineering community**: building the Quest for AGI Discord as a lab for people learning, shipping, and thinking about the future of agents.
+- **Career capital**: studying Naval, Cal Newport, deep work, and production engineering while shipping real systems.
 
 ---
 
-## 🛠 Tech
+## What I'm Building
+
+| Project | What it is | Status |
+|---|---|---|
+| **[Maxima](https://forge-landing-production.up.railway.app)** | Cloud AI familiar and adaptive journal partner with memory, tools, Telegram access, reasoning frameworks, and proactive pattern detection. | Live beta |
+| **[FORGE Landing](https://forge-landing-production.up.railway.app)** | Public command center for the FORGE ecosystem: Maxima, Axiom AI, agent stack, and early-access flow. | Live |
+| **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | Interactive 3D map of Maxima's mind: thousands of nodes, systems, and connections rendered as an explorable galaxy. | Live |
+| **[Axiom AI](https://axiom-ai-production-aaec.up.railway.app)** | Unified LLM gateway for routing across model providers through one API surface. | Live |
+| **Quest for AGI** | Discord community for builders exploring agents, memory, AI systems, and the long game. | Growing |
+
+---
+
+## Featured System: Maxima
+
+Maxima is my flagship AI system: a Claude-based cloud agent built to become a real journal partner, strategist, financial tracker, and personal operating layer.
+
+**Core direction:**
+
+- Persistent memory and recall that trusts live truth over stale notes.
+- Proactive drift detection for focus, energy, open loops, money leakage, and momentum loss.
+- Decision frameworks for financial, strategic, relational, and career choices.
+- Quarterly evolution reports tracking both Lance's growth and Maxima's own development.
+- Tool efficiency through batching, high-impact retrieval, and fewer wasted calls.
+
+The goal is not just a smarter chatbot. The goal is a **long-term AI partner** that compounds with the person using it.
+
+---
+
+## Tech I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-`RAG · Agentic patterns · MCP · Graphiti · APScheduler · async Python · CCNA networking`
+`RAG` · `agentic workflows` · `hybrid search` · `knowledge graphs` · `tool routing` · `observability` · `Telegram bots` · `Railway deployment` · `FastAPI` · `Python async systems`
 
 ---
 
-## 🎯 The Mission
+## My Engineering Thesis
 
-I work night shift and build in the hours most people sleep. No CS degree, no team, no funding — just a refusal to stay where I started. The goal: build agents at the frontier, and grow FORGE into real AI infrastructure for one-person companies. Playing the long game — specific knowledge, building in public, compounding daily.
+Most AI products still behave like sessions. They answer, then forget.
+
+The next useful layer is personal AI infrastructure: systems that preserve context, learn from corrections, expose their reasoning, and act through tools without losing the human underneath.
+
+That is what I am building with FORGE.
 
 ---
 
@@ -57,11 +90,9 @@ I work night shift and build in the hours most people sleep. No CS degree, no te
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lancimoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85C2F&icon_color=F5A623" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancimoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E85C2F" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lancimoun&theme=tokyonight&hide_border=true&background=0D1117&ring=E85C2F&fire=F5A623&currStreakLabel=E85C2F" />
-
 <br/>
 
-**Building a real AI product with Claude, RAG & vector memory? Let's talk.**
+**Building agents with memory, tools, and long-horizon reliability.**
 
 <a href="https://www.linkedin.com/in/lance-jilliard-galicia-8b5b99312"><img src="https://img.shields.io/badge/Let's%20Build%20Together-E85C2F?style=for-the-badge&logo=handshake&logoColor=white" /></a>
 
