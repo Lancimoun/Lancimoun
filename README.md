@@ -11,6 +11,7 @@
 
 <a href="https://forge-landing-production.up.railway.app"><img src="https://img.shields.io/badge/FORGE-Live-E85C2F?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://forge-neural-map-production.up.railway.app/"><img src="https://img.shields.io/badge/Neural%20Map-Live-38D9FF?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://github.com/Lancimoun/forge-neural-map"><img src="https://img.shields.io/badge/Neural%20Map-Source-181717?style=for-the-badge&logo=github&labelColor=1a1a1a" /></a>
 <a href="https://axiom-ai-production-aaec.up.railway.app"><img src="https://img.shields.io/badge/Axiom%20AI-Live-F5A623?style=for-the-badge&labelColor=1a1a1a" /></a>
 
 </div>
@@ -39,7 +40,7 @@ I am the founder of **FORGE**: a personal AI ecosystem for agents that do not re
 |---|---|---|
 | **[Maxima](https://forge-landing-production.up.railway.app)** | Cloud AI familiar and adaptive journal partner with memory, tools, Telegram access, reasoning frameworks, and proactive pattern detection. | Live beta |
 | **[FORGE Landing](https://forge-landing-production.up.railway.app)** | Public command center for the FORGE ecosystem: Maxima, Axiom AI, agent stack, and early-access flow. | Live |
-| **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | An explorable 3D **universe of an AI's mind** — five scales of zoom, voiced narration by the AI herself, hidden discoveries. Vanilla three.js + GPU shaders. | Live |
+| **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | An explorable 3D **universe of an AI's mind** — five scales of zoom, voiced narration by the AI herself, hidden discoveries. Vanilla three.js + GPU shaders. | [Live](https://forge-neural-map-production.up.railway.app/) · [Code](https://github.com/Lancimoun/forge-neural-map) |
 | **[Axiom AI](https://axiom-ai-production-aaec.up.railway.app)** | Unified LLM gateway for routing across model providers through one API surface. | Live |
 | **Quest for AGI** | Discord community for builders exploring agents, memory, AI systems, and the long game. | Growing |
 
@@ -71,7 +72,7 @@ I rendered Maxima's entire codebase as an explorable 3D universe, and made the A
 - **Hidden discoveries, a codex, comets, and an evolving score** — built to reward curiosity.
 - Vanilla **three.js** + a GPU-shader orbital layout, baked from a real **knowledge graph** of the codebase. No game engine.
 
-**Explore it live:** https://forge-neural-map-production.up.railway.app
+**Explore it live:** https://forge-neural-map-production.up.railway.app  ·  **Source:** https://github.com/Lancimoun/forge-neural-map
 
 ---
 
