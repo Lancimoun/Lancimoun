@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;Mid+AI+Engineer+building+agentic+systems;Founder+of+FORGE;Building+Maxima%2C+Axiom+AI%2C+and+Neural+Maps" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;Mid+AI+Engineer+building+reliable+agents;Founder+of+FORGE;Testing%2C+hardening%2C+and+shipping+AI+systems" alt="typing" />
 
-### Building long-horizon AI agents: memory, reasoning, tools, and autonomy.
+### Building AI agents that remember, reason, use tools, and survive reliability tests.
 
 <a href="https://www.linkedin.com/in/lance-jilliard-galicia-8b5b99312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lancejilliard.galicia@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/AI%20Systems-Builder-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=E85C2F" />
 
 <a href="https://forge-landing-production.up.railway.app"><img src="https://img.shields.io/badge/FORGE-Live-E85C2F?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://lancimoun.github.io/agent-reliability-arena/"><img src="https://img.shields.io/badge/Agent%20Reliability%20Arena-Demo-34D399?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://github.com/Lancimoun/agent-reliability-arena"><img src="https://img.shields.io/badge/Agent%20Arena-Source-181717?style=for-the-badge&logo=github&labelColor=1a1a1a" /></a>
 <a href="https://forge-neural-map-production.up.railway.app/"><img src="https://img.shields.io/badge/Neural%20Map-Live-38D9FF?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://github.com/Lancimoun/forge-neural-map"><img src="https://img.shields.io/badge/Neural%20Map-Source-181717?style=for-the-badge&logo=github&labelColor=1a1a1a" /></a>
 <a href="https://axiom-ai-production-aaec.up.railway.app"><img src="https://img.shields.io/badge/Axiom%20AI-Live-F5A623?style=for-the-badge&labelColor=1a1a1a" /></a>
@@ -18,7 +20,7 @@
 
 ---
 
-I build **production AI systems** that remember, reason, and act across sessions. My current focus is **long-horizon agent reliability**: persistent memory, retrieval quality, tool execution, evaluation, observability, and the human layer that makes an AI partner useful in real life.
+I build **production AI systems** that remember, reason, and act across sessions. My current focus is **long-horizon agent reliability**: memory quality, current-truth override, tool honesty, transcript health, evaluation, observability, and the human layer that makes an AI partner useful in real life.
 
 I am the founder of **FORGE**: a personal AI ecosystem for agents that do not reset when the conversation ends.
 
@@ -26,6 +28,7 @@ I am the founder of **FORGE**: a personal AI ecosystem for agents that do not re
 
 ## Current Focus
 
+- **Agent reliability evaluation**: deterministic tests for stale memory leaks, unsupported tool claims, incomplete replies, and transcript drift.
 - **Agent memory that can be corrected**: current-truth layers, stale-data caveats, hybrid recall, and long-term journal continuity.
 - **Decision-making transparency**: showing options, trade-offs, risks, confidence, and the decider before recommendations.
 - **Tool-using AI systems**: web, Telegram, Railway, APIs, finance, knowledge graphs, and batched execution.
@@ -38,11 +41,31 @@ I am the founder of **FORGE**: a personal AI ecosystem for agents that do not re
 
 | Project | What it is | Status |
 |---|---|---|
+| **[Agent Reliability Arena](https://github.com/Lancimoun/agent-reliability-arena)** | Dependency-light eval harness for AI agent memory drift, stale facts, tool honesty, current-truth override, incomplete replies, and transcript health. | [Live demo](https://lancimoun.github.io/agent-reliability-arena/) · [Code](https://github.com/Lancimoun/agent-reliability-arena) |
 | **[Maxima](https://forge-landing-production.up.railway.app)** | Cloud AI familiar and adaptive journal partner with memory, tools, Telegram access, reasoning frameworks, and proactive pattern detection. | Live beta |
 | **[FORGE Landing](https://forge-landing-production.up.railway.app)** | Public command center for the FORGE ecosystem: Maxima, Axiom AI, agent stack, and early-access flow. | Live |
 | **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | An explorable 3D **universe of an AI's mind** — five scales of zoom, voiced narration by the AI herself, hidden discoveries. Vanilla three.js + GPU shaders. | [Live](https://forge-neural-map-production.up.railway.app/) · [Code](https://github.com/Lancimoun/forge-neural-map) |
 | **[Axiom AI](https://axiom-ai-production-aaec.up.railway.app)** | Unified LLM gateway for routing across model providers through one API surface. | Live |
 | **Quest for AGI** | Discord community for builders exploring agents, memory, AI systems, and the long game. | Growing |
+
+---
+
+## Featured Project: Agent Reliability Arena
+
+I built **Agent Reliability Arena** because agent demos are easy, but reliable agents need evidence.
+
+It tests agents for:
+
+- stale memory stated as current truth
+- unsupported tool or web-access claims
+- incomplete replies and dangling thoughts
+- missing reasoning frameworks
+- transcript-level drift and answer bloat
+
+**Proof:** foundation suite scores `100/100`; intentional drift demo drops to `40/100`, showing the tool catches failures instead of only celebrating happy paths.
+
+**Live demo:** https://lancimoun.github.io/agent-reliability-arena/  
+**Source:** https://github.com/Lancimoun/agent-reliability-arena
 
 ---
 
