@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;AI+Systems+Engineer+building+reliable+agents;Founder+of+FORGE;Memory%2C+RAG%2C+tool+use%2C+and+agent+evals" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;AI+Systems+Engineer+building+reliable+agents;Founder+of+FORGE;Memory%2C+RAG%2C+tool+use%2C+and+agent+evals;Author+of+AI+Will+Not+Benefit+Humans" alt="typing" />
 
 ### I build AI agents that remember, reason, use tools, and can be tested for reliability.
 
@@ -16,6 +16,8 @@
 <a href="https://forge-neural-map-production.up.railway.app/"><img src="https://img.shields.io/badge/Neural%20Map-Live-38D9FF?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://github.com/Lancimoun/forge-neural-map"><img src="https://img.shields.io/badge/Neural%20Map-Source-181717?style=for-the-badge&logo=github&labelColor=1a1a1a" /></a>
 <a href="https://axiom-ai-production-aaec.up.railway.app"><img src="https://img.shields.io/badge/Axiom%20AI-Live-F5A623?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://fearless-quietude-production.up.railway.app"><img src="https://img.shields.io/badge/The%20Book-Read%20Live-C8A55A?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://maxima-v3-production-ea03.up.railway.app"><img src="https://img.shields.io/badge/DocChat-RAG%20Demo-34D399?style=for-the-badge&labelColor=1a1a1a" /></a>
 
 </div>
 
@@ -48,6 +50,8 @@ I am the founder of **FORGE**: a personal AI ecosystem for agents that do not re
 | **[FORGE Landing](https://forge-landing-production.up.railway.app)** | Public command center for the FORGE ecosystem: Maxima, Axiom AI, agent stack, reliability proof, and early-access flow. | Live |
 | **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | An explorable 3D **universe of an AI's mind** — five scales of zoom, voiced narration by the AI herself, hidden discoveries. Vanilla three.js + GPU shaders. | [Live](https://forge-neural-map-production.up.railway.app/) · [Code](https://github.com/Lancimoun/forge-neural-map) |
 | **[Axiom AI](https://axiom-ai-production-aaec.up.railway.app)** | Unified LLM gateway for routing across model providers through one API surface. | Live |
+| **[AI Will Not Benefit Humans](https://fearless-quietude-production.up.railway.app)** | A 12-chapter open-source manifesto on who actually benefits from AI — published as a live journal, ~22,000 words of research-backed argument, MIT licensed. | [Read live](https://fearless-quietude-production.up.railway.app) |
+| **[DocChat](https://maxima-v3-production-ea03.up.railway.app)** | FORGE RAG demo — upload a PDF or paste a URL and chat with it. sentence-transformer embeddings, cosine retrieval, Claude Haiku answers with source citations. | [Live](https://maxima-v3-production-ea03.up.railway.app) |
 | **Quest for AGI** | Discord community for builders exploring agents, memory, AI systems, and the long game. | Growing |
 
 ---
