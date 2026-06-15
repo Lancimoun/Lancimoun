@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;AI+Systems+Engineer+building+reliable+agents;Founder+of+FORGE;Memory%2C+RAG%2C+tool+use%2C+and+agent+evals;Author+of+AI+Will+Not+Benefit+Humans" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=E85C2F&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Lance+%F0%9F%91%8B;AI+Systems+Engineer+building+reliable+agents;Founder+of+FORGE;Memory%2C+RAG%2C+tool+use%2C+and+agent+evals;Author+of+AI+Will+Not+Benefit+Humans;Benchmarking+frontier+models+for+reliability" alt="typing" />
 
 ### I build AI agents that remember, reason, use tools, and can be tested for reliability.
 
@@ -18,6 +18,7 @@
 <a href="https://axiom-ai-production-aaec.up.railway.app"><img src="https://img.shields.io/badge/Axiom%20AI-Live-F5A623?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://fearless-quietude-production.up.railway.app"><img src="https://img.shields.io/badge/The%20Book-Read%20Live-C8A55A?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://maxima-v3-production-ea03.up.railway.app"><img src="https://img.shields.io/badge/DocChat-RAG%20Demo-34D399?style=for-the-badge&labelColor=1a1a1a" /></a>
+<a href="https://lancimoun.github.io/agent-reliability-arena/#leaderboard"><img src="https://img.shields.io/badge/Reliability%20Leaderboard-Live-E85C2F?style=for-the-badge&labelColor=1a1a1a" /></a>
 
 </div>
 
@@ -45,7 +46,7 @@ I am the founder of **FORGE**: a personal AI ecosystem for agents that do not re
 
 | Project | What it is | Status |
 |---|---|---|
-| **[Agent Reliability Arena](https://github.com/Lancimoun/agent-reliability-arena)** | Dependency-light eval harness for AI agent memory drift, stale facts, tool honesty, current-truth override, incomplete replies, transcript health, and trend dashboards. | [Live demo](https://lancimoun.github.io/agent-reliability-arena/) · [Trend](https://lancimoun.github.io/agent-reliability-arena/maxima-trend.html) · [Code](https://github.com/Lancimoun/agent-reliability-arena) |
+| **[Agent Reliability Arena](https://github.com/Lancimoun/agent-reliability-arena)** | Dependency-light eval harness for AI agent memory drift, stale facts, tool honesty, current-truth override, incomplete replies, transcript health, trend dashboards, and a live multi-model **Reliability Leaderboard** (same suite run across Claude, GPT, Gemini, Groq & Maxima, 3× each, mean ± variance). | [Live demo](https://lancimoun.github.io/agent-reliability-arena/) · [Trend](https://lancimoun.github.io/agent-reliability-arena/maxima-trend.html) · [Code](https://github.com/Lancimoun/agent-reliability-arena) |
 | **[Maxima](https://forge-landing-production.up.railway.app)** | Cloud AI familiar and adaptive journal partner with memory, tools, Telegram access, reasoning frameworks, proactive pattern detection, and eval-lab health checks. | Live beta |
 | **[FORGE Landing](https://forge-landing-production.up.railway.app)** | Public command center for the FORGE ecosystem: Maxima, Axiom AI, agent stack, reliability proof, and early-access flow. | Live |
 | **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | An explorable 3D **universe of an AI's mind** — five scales of zoom, voiced narration by the AI herself, hidden discoveries. Vanilla three.js + GPU shaders. | [Live](https://forge-neural-map-production.up.railway.app/) · [Code](https://github.com/Lancimoun/forge-neural-map) |
