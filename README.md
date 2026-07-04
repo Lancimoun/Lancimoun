@@ -13,6 +13,7 @@
 <a href="https://lancimoun.github.io/agent-reliability-arena/"><img src="https://img.shields.io/badge/Agent%20Reliability%20Arena-Demo-34D399?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://lancimoun.github.io/agent-reliability-arena/maxima-trend.html"><img src="https://img.shields.io/badge/Maxima%20Trend-Dashboard-38D9FF?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://github.com/Lancimoun/agent-reliability-arena"><img src="https://img.shields.io/badge/Agent%20Arena-Source-181717?style=for-the-badge&logo=github&labelColor=1a1a1a" /></a>
+<a href="#featured-prototype-engram"><img src="https://img.shields.io/badge/ENGRAM-Memory%20Ledger-8FE7C1?style=for-the-badge&logo=github&labelColor=1a1a1a" /></a>
 <a href="https://forge-neural-map-production.up.railway.app/"><img src="https://img.shields.io/badge/Neural%20Map-Live-38D9FF?style=for-the-badge&labelColor=1a1a1a" /></a>
 <a href="https://github.com/Lancimoun/forge-neural-map"><img src="https://img.shields.io/badge/Neural%20Map-Source-181717?style=for-the-badge&logo=github&labelColor=1a1a1a" /></a>
 <a href="https://axiom-ai-production-aaec.up.railway.app"><img src="https://img.shields.io/badge/Axiom%20AI-Live-F5A623?style=for-the-badge&labelColor=1a1a1a" /></a>
@@ -47,6 +48,7 @@ I am the founder of **FORGE**: a personal AI ecosystem for agents that do not re
 | Project | What it is | Status |
 |---|---|---|
 | **[Agent Reliability Arena](https://github.com/Lancimoun/agent-reliability-arena)** | Dependency-light eval harness for AI agent memory drift, stale facts, tool honesty, current-truth override, incomplete replies, transcript health, trend dashboards, and a live multi-model **Reliability Leaderboard** (same suite run across Claude, GPT, Gemini, Groq & Maxima, 3× each, mean ± variance). | [Live demo](https://lancimoun.github.io/agent-reliability-arena/) · [Trend](https://lancimoun.github.io/agent-reliability-arena/maxima-trend.html) · [Code](https://github.com/Lancimoun/agent-reliability-arena) |
+| **[ENGRAM](#featured-prototype-engram)** | Auditable memory ledger for AI agents: stores beliefs, records contradiction-driven revisions, preserves provenance, models decay/restore events, and answers "what changed your mind?" from real ledger state instead of a reflection prompt. | Local prototype · GitHub-ready |
 | **[Maxima](https://forge-landing-production.up.railway.app)** | Cloud AI familiar and adaptive journal partner with memory, tools, Telegram access, reasoning frameworks, proactive pattern detection, and eval-lab health checks. | Live beta |
 | **[FORGE Landing](https://forge-landing-production.up.railway.app)** | Public command center for the FORGE ecosystem: Maxima, Axiom AI, agent stack, reliability proof, and early-access flow. | Live |
 | **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | An explorable 3D **universe of an AI's mind** — five scales of zoom, voiced narration by the AI herself, hidden discoveries. Vanilla three.js + GPU shaders. | [Live](https://forge-neural-map-production.up.railway.app/) · [Code](https://github.com/Lancimoun/forge-neural-map) |
@@ -75,6 +77,34 @@ It tests agents for:
 **Live demo:** https://lancimoun.github.io/agent-reliability-arena/  
 **Maxima trend dashboard:** https://lancimoun.github.io/agent-reliability-arena/maxima-trend.html  
 **Source:** https://github.com/Lancimoun/agent-reliability-arena
+
+---
+
+## Featured Prototype: ENGRAM
+
+ENGRAM is an **auditable memory ledger for AI agents**.
+
+Most AI memory systems focus on storing and retrieving facts. ENGRAM focuses on
+belief history: what an agent believed, when the belief changed, what evidence
+triggered the revision, and whether a dormant belief was restored later.
+
+It currently tracks:
+
+- contradiction-driven belief revisions
+- provenance for every active belief
+- stale-memory decay
+- restore events
+- historical belief lookup
+- "what changed your mind?" queries backed by ledger state
+
+ENGRAM complements Agent Reliability Arena:
+
+- **Arena** shows whether an agent fails or recovers under stress.
+- **ENGRAM** shows what the agent believed when that happened.
+
+The first version is a local SQLite + browser prototype with honesty tests for
+revision integrity, provenance completeness, decay/restore behavior, and
+historical belief lookup.
 
 ---
 
