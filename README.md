@@ -1,160 +1,83 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=63E6BE&center=true&vCenter=true&width=920&lines=Lance+Jilliard+Galicia;AI+Systems+Engineer;Agent+Reliability+%7C+Memory+Observability;Building+FORGE%2C+Maxima%2C+ENGRAM" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=63E6BE&center=true&vCenter=true&width=940&lines=Lance+Jilliard+Galicia;AI+Systems+Engineer;LLM+Agents+%C2%B7+RAG+%C2%B7+Memory+%C2%B7+Reliability;I+build+AI+that+can+be+proven+reliable" alt="Lance Jilliard Galicia — AI Systems Engineer" />
 
-### I build AI systems that remember, revise, use tools, and can be tested.
+**I build production AI systems that remember, revise, use tools — and can be _proven_ reliable.**
 
 <a href="https://www.linkedin.com/in/lance-jilliard-galicia-8b5b99312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lancejilliard.galicia@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20Remote-63E6BE?style=for-the-badge&labelColor=111418" />
-<img src="https://img.shields.io/badge/AI%20Agent%20Reliability-Builder-181717?style=for-the-badge&labelColor=111418&color=77A7FF" />
-
-<br />
-
-<a href="#featured-project-engram"><img src="https://img.shields.io/badge/ENGRAM-Memory%20Observatory-63E6BE?style=for-the-badge&labelColor=111418" /></a>
-<a href="https://lancimoun.github.io/agent-reliability-arena/"><img src="https://img.shields.io/badge/Agent%20Reliability%20Arena-Live-77A7FF?style=for-the-badge&labelColor=111418" /></a>
-<a href="https://forge-landing-production.up.railway.app"><img src="https://img.shields.io/badge/FORGE%20%2F%20Maxima-Live-F1BD5B?style=for-the-badge&labelColor=111418" /></a>
-<a href="https://forge-neural-map-production.up.railway.app/"><img src="https://img.shields.io/badge/Neural%20Map-3D%20Live-BA8CFF?style=for-the-badge&labelColor=111418" /></a>
+<a href="mailto:lancejilliard.galicia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20Remote%20AI%20Roles-63E6BE?style=for-the-badge&labelColor=111418" />
+<img src="https://img.shields.io/badge/Philippines%20%C2%B7%20GMT%2B8-181717?style=for-the-badge&labelColor=111418&color=8B96A8" />
 
 </div>
 
 ---
 
-## Current Direction
+### ◈ Now
 
-I am focused on **long-horizon AI agent reliability**: systems that do not only answer, but preserve memory, expose their belief changes, use tools honestly, and survive stress tests.
-
-My current work is centered around four artifacts:
-
-| Project | What it proves | Status |
-|---|---|---|
-| **[ENGRAM](#featured-project-engram)** | AI memory should be inspectable: beliefs, revisions, evidence, decay, restore events, and "what changed your mind?" queries backed by ledger state. | Local prototype, GitHub-ready |
-| **[Agent Reliability Arena](https://github.com/Lancimoun/agent-reliability-arena)** | Agent demos need tests: stale memory, unsupported tool claims, incomplete replies, current-truth override, transcript drift, trend dashboards. | [Live](https://lancimoun.github.io/agent-reliability-arena/) |
-| **[Maxima / FORGE](https://forge-landing-production.up.railway.app)** | A long-term AI companion should compound over time: memory, journaling, tools, proactive pattern detection, and reliability checks. | Live beta |
-| **[FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** | Complex AI systems can be made explorable: a 3D map of an AI codebase as a navigable universe. | [Live](https://forge-neural-map-production.up.railway.app/) |
-
-I am deliberately consolidating my public portfolio around these projects. Older demos stay only when they support the story; everything else is being archived, rewritten, or removed from the main profile surface.
+Building **Maxima** — a 24/7 production AI companion — and **FORGE**, a family of tools that make AI agents inspectable, testable, and honest about their own memory. Open to remote AI / LLM engineering roles.
 
 ---
 
-## Featured Project: ENGRAM
+### ◈ Highlights
 
-ENGRAM is an **AI memory observatory** and auditable belief ledger.
-
-Most AI memory systems store and retrieve facts. ENGRAM tracks the history of belief:
-
-- what the agent believed
-- when the belief changed
-- what evidence triggered the revision
-- what stale memories decayed
-- which dormant beliefs were restored later
-- how the agent answers "what changed your mind?"
-
-The prototype includes:
-
-- SQLite belief ledger
-- contradiction-driven revisions
-- provenance records
-- memory decay and restore events
-- browser-based memory cortex visualization
-- belief inventory filtering
-- memory health scoring
-- event rhythm and revision stream
-- tests for revision integrity, provenance, decay/restore behavior, and historical lookup
-
-ENGRAM complements Agent Reliability Arena:
-
-- **Arena** shows whether an agent fails or recovers under pressure.
-- **ENGRAM** shows what the agent believed when that happened.
-
-This is the lane I care about most: making AI memory measurable, debuggable, and honest.
+| | |
+|---|---|
+| 🚀 **AETHER Genesis** — AI companion product | **4 paying customers, $0 ad spend** |
+| 🧠 **Project Maxima** — 24/7 production assistant | **200+ callable tools**, multi-model Claude routing, runs ~**$35/mo** |
+| 🏅 **Sagility (US healthcare ops)** | **98% QA** · trained **15+ agents** · **sole Knowledge-Transfer lead deployed to Hyderabad, India at 24** |
+| 🎓 **Credentials** | **B.S. Information Technology** (STI, 2025) · **CCNA ×2** (Cisco / NetAcad) |
 
 ---
 
-## Featured Project: Agent Reliability Arena
+### ◈ Systems — the FORGE family
 
-Agent Reliability Arena is a dependency-light eval harness for testing agent behavior under realistic failure modes.
+Each project proves one property that production AI actually needs.
 
-It checks for:
+**🧬 [ENGRAM](https://github.com/Lancimoun/engram)** — _memory that can be audited_
+A belief-revision **ledger** + live 3D observatory: what an agent believed, when it changed, what evidence triggered the revision, what decayed, and what was later restored.
+`memory` `provenance` `three.js` `sqlite` — [**Source ›**](https://github.com/Lancimoun/engram)
 
-- stale memory stated as current truth
-- unsupported web/tool access claims
-- incomplete replies
-- missing reasoning frameworks
-- transcript drift and answer bloat
-- long-running Maxima trend health
+**📑 [LEMMA](https://lemma-production-b84f.up.railway.app)** — _answers that prove themselves_
+Hybrid RAG (dense + BM25 + **RRF fusion**) with **native citations** and a live reliability panel that measures its own recall, latency, and cost.
+`RAG` `citations` `evals` `fastapi` — [**Live ›**](https://lemma-production-b84f.up.railway.app) · [Source](https://github.com/Lancimoun/lemma)
 
-**Live demo:** https://lancimoun.github.io/agent-reliability-arena/  
-**Trend dashboard:** https://lancimoun.github.io/agent-reliability-arena/maxima-trend.html  
-**Source:** https://github.com/Lancimoun/agent-reliability-arena
+**🛡️ [Agent Reliability Arena](https://lancimoun.github.io/agent-reliability-arena/)** — _agents that get tested_
+An eval harness that catches stale memory stated as truth, unsupported tool claims, answer drift, and long-horizon trend health.
+`evals` `agents` `observability` — [**Live ›**](https://lancimoun.github.io/agent-reliability-arena/) · [Source](https://github.com/Lancimoun/agent-reliability-arena)
 
----
+**🤖 [Maxima / FORGE](https://forge-landing-production.up.railway.app)** — _AI that compounds over time_
+Long-horizon companion: persistent memory, current-truth override, tool use, and proactive pattern detection across weeks — not a one-shot chatbot.
+`agents` `long-horizon memory` `tools` — [**Live ›**](https://forge-landing-production.up.railway.app)
 
-## Featured System: Maxima / FORGE
+**🌌 [FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** — _systems you can explore_
+A real codebase rendered as a navigable 3D universe — **2,778 nodes · 7,295 connections · 157 systems** — built in vanilla Three.js with GPU-shader layout over a live knowledge graph.
+`three.js` `dataviz` `webgl` — [**Live ›**](https://forge-neural-map-production.up.railway.app/) · [Source](https://github.com/Lancimoun/forge-neural-map)
 
-Maxima is my flagship AI companion system inside the FORGE ecosystem.
-
-The goal is not another chatbot. The goal is a long-term AI partner that can remember, challenge, help plan, detect patterns, use tools, and stay useful across weeks and months.
-
-Core direction:
-
-- persistent memory and current-truth override
-- proactive journal and life-system analysis
-- decision support with trade-offs and confidence
-- Telegram and web/API tool access
-- reliability checks through Agent Reliability Arena
-- visual interfaces that make the system feel inspectable and alive
-
-**Live:** https://forge-landing-production.up.railway.app
+**🔀 [Axiom AI](https://github.com/Lancimoun/axiom-ai)** — _one door to every model_
+A unified gateway across Claude, GPT, Gemini, and Groq — streaming, auth, usage tracking, and provider abstraction so apps switch models without a rewrite.
+`gateway` `llm infra` `fastapi` — [**Source ›**](https://github.com/Lancimoun/axiom-ai)
 
 ---
 
-## Featured Interface: FORGE Neural Map
-
-FORGE Neural Map turns an AI codebase into a navigable 3D universe.
-
-- 2,778 stars
-- 7,295 connections
-- 157 systems
-- five scales of exploration
-- voiced AI narration
-- hidden discoveries and codex-style exploration
-
-It is built with vanilla Three.js and GPU-shader layout from a real knowledge graph of the codebase.
-
-**Live:** https://forge-neural-map-production.up.railway.app/  
-**Source:** https://github.com/Lancimoun/forge-neural-map
-
----
-
-## Technical Stack
+### ◈ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-`agent reliability` · `memory systems` · `RAG` · `eval harnesses` · `tool routing` · `observability` · `knowledge graphs` · `Telegram bots` · `Railway deployment` · `browser UIs` · `Three.js`
+`LLM agents` · `RAG` · `hybrid retrieval` · `evaluation harnesses` · `vector search` · `observability` · `tool routing` · `knowledge graphs` · `prompt caching` · `Railway deploys`
 
 ---
 
-## Engineering Thesis
+### ◈ Thesis
 
-The next useful AI layer is not a bigger chat window.
-
-It is infrastructure for agents that can:
-
-- preserve context
-- update beliefs when evidence changes
-- expose why they changed
-- avoid pretending stale memory is current truth
-- use tools without lying about tool state
-- stay useful over long timelines
-
-That is what I am building with ENGRAM, Agent Reliability Arena, Maxima, and FORGE.
+The next useful AI layer isn't a bigger chat window. It's infrastructure for agents that **preserve context, update beliefs when evidence changes, expose _why_ they changed, and never pass stale memory off as current truth.** That's the lane I build in — and every project above is a proof of one piece of it.
 
 ---
 
@@ -163,7 +86,7 @@ That is what I am building with ENGRAM, Agent Reliability Arena, Maxima, and FOR
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lancimoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE&icon_color=F1BD5B" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancimoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE" />
 
-<br />
+<br /><br />
 
 **Building agents with memory, tools, and long-horizon reliability.**
 
