@@ -1,38 +1,49 @@
+<!-- ░░░ HEADER ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=30&pause=1000&color=63E6BE&center=true&vCenter=true&width=940&lines=Lance+Jilliard+Galicia;AI+Systems+Engineer;LLM+Agents+%C2%B7+RAG+%C2%B7+Memory+%C2%B7+Reliability;I+build+AI+that+can+be+proven+reliable" alt="Lance Jilliard Galicia — AI Systems Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e13,55:0f766e,100:63e6be&height=190&section=header&text=Lance%20Jilliard%20Galicia&fontColor=eafffb&fontSize=42&fontAlignY=40&desc=AI%20Systems%20Engineer%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20Reliability&descAlignY=62&descSize=16" width="100%" alt="Lance Jilliard Galicia" />
 
-**I build production AI systems that remember, revise, use tools — and can be _proven_ reliable.**
+<a href="https://github.com/Lancimoun"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=63E6BE&center=true&vCenter=true&width=720&lines=I+build+AI+that+can+be+proven+reliable;memory+%C2%B7+retrieval+%C2%B7+evals+%C2%B7+tool+use;def+ship()+-%3E+ProductionGrade:+..." alt="typing" /></a>
+
+<br />
 
 <a href="https://www.linkedin.com/in/lance-jilliard-galicia-8b5b99312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lancejilliard.galicia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20Remote%20AI%20Roles-63E6BE?style=for-the-badge&labelColor=111418" />
-<img src="https://img.shields.io/badge/Philippines%20%C2%B7%20GMT%2B8-181717?style=for-the-badge&labelColor=111418&color=8B96A8" />
+<img src="https://img.shields.io/badge/Open%20to%20Remote%20AI%20Roles-63E6BE?style=for-the-badge&labelColor=0b0e13" />
+<img src="https://komarev.com/ghpvc/?username=Lancimoun&style=for-the-badge&color=63E6BE&label=PROFILE+VIEWS" />
 
 </div>
 
+<!-- ░░░ WHOAMI ░░░ -->
+```python
+class LanceGalicia(AIEngineer):
+    role   = "AI Systems Engineer"
+    based  = "Philippines · GMT+8 · open to remote"
+    now    = "Building Maxima — a 24/7 production AI companion"
+    focus  = ["LLM agents", "RAG", "long-horizon memory", "evals", "reliability"]
+    stack  = ["Python", "FastAPI", "Claude API", "Qdrant", "SQLite", "Three.js"]
+
+    def thesis(self) -> str:
+        # The next useful AI layer isn't a bigger chat window.
+        return "It's agents that remember, revise, use tools — and can be tested."
+```
+
 ---
 
-### ◈ Now
-
-Building **Maxima** — a 24/7 production AI companion — and **FORGE**, a family of tools that make AI agents inspectable, testable, and honest about their own memory. Open to remote AI / LLM engineering roles.
-
----
-
-### ◈ Highlights
+### `◈` Highlights
 
 | | |
 |---|---|
 | 🚀 **AETHER Genesis** — AI companion product | **4 paying customers, $0 ad spend** |
-| 🧠 **Project Maxima** — 24/7 production assistant | **200+ callable tools**, multi-model Claude routing, runs ~**$35/mo** |
-| 🏅 **Sagility (US healthcare ops)** | **98% QA** · trained **15+ agents** · **sole Knowledge-Transfer lead deployed to Hyderabad, India at 24** |
+| 🧠 **Project Maxima** — 24/7 production assistant | **200+ callable tools**, multi-model Claude routing, ~**$35/mo** to run |
+| 🏅 **Sagility** — US healthcare operations | **98% QA** · trained **15+ agents** · **sole Knowledge-Transfer lead deployed to Hyderabad, India at 24** |
 | 🎓 **Credentials** | **B.S. Information Technology** (STI, 2025) · **CCNA ×2** (Cisco / NetAcad) |
 
 ---
 
-### ◈ Systems — the FORGE family
+### `◈` Systems — the FORGE family
 
-Each project proves one property that production AI actually needs.
+> Each project proves one property production AI actually needs.
 
 **🧬 [ENGRAM](https://github.com/Lancimoun/engram)** — _memory that can be audited_
 A belief-revision **ledger** + live 3D observatory: what an agent believed, when it changed, what evidence triggered the revision, what decayed, and what was later restored.
@@ -51,7 +62,7 @@ Long-horizon companion: persistent memory, current-truth override, tool use, and
 `agents` `long-horizon memory` `tools` — [**Live ›**](https://forge-landing-production.up.railway.app)
 
 **🌌 [FORGE Neural Map](https://forge-neural-map-production.up.railway.app/)** — _systems you can explore_
-A real codebase rendered as a navigable 3D universe — **2,778 nodes · 7,295 connections · 157 systems** — built in vanilla Three.js with GPU-shader layout over a live knowledge graph.
+A real codebase rendered as a navigable 3D universe — **2,778 nodes · 7,295 connections · 157 systems** — vanilla Three.js with GPU-shader layout over a live knowledge graph.
 `three.js` `dataviz` `webgl` — [**Live ›**](https://forge-neural-map-production.up.railway.app/) · [Source](https://github.com/Lancimoun/forge-neural-map)
 
 **🔀 [Axiom AI](https://github.com/Lancimoun/axiom-ai)** — _one door to every model_
@@ -60,7 +71,7 @@ A unified gateway across Claude, GPT, Gemini, and Groq — streaming, auth, usag
 
 ---
 
-### ◈ Stack
+### `◈` Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -68,26 +79,39 @@ A unified gateway across Claude, GPT, Gemini, and Groq — streaming, auth, usag
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 `LLM agents` · `RAG` · `hybrid retrieval` · `evaluation harnesses` · `vector search` · `observability` · `tool routing` · `knowledge graphs` · `prompt caching` · `Railway deploys`
 
 ---
 
-### ◈ Thesis
-
-The next useful AI layer isn't a bigger chat window. It's infrastructure for agents that **preserve context, update beliefs when evidence changes, expose _why_ they changed, and never pass stale memory off as current truth.** That's the lane I build in — and every project above is a proof of one piece of it.
-
----
+### `◈` GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lancimoun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE&icon_color=F1BD5B" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancimoun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lancimoun&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE&icon_color=F1BD5B&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancimoun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE&text_color=c9d1d9" />
 
-<br /><br />
+<img src="https://streak-stats.demolab.com/?user=Lancimoun&theme=tokyonight&hide_border=true&background=0D1117&stroke=1b2531&ring=63E6BE&fire=F1BD5B&currStreakLabel=63E6BE&sideLabels=c9d1d9&dates=8b96a8" width="70%" />
 
-**Building agents with memory, tools, and long-horizon reliability.**
+<img src="https://github-profile-trophy.vercel.app/?username=Lancimoun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lancimoun&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=63E6BE&line=63E6BE&point=F1BD5B&area=true&area_color=0f766e" width="100%" />
+
+</div>
+
+---
+
+### `◈` Thesis
+
+The next useful AI layer isn't a bigger chat window. It's infrastructure for agents that **preserve context, update beliefs when evidence changes, expose _why_ they changed, and never pass stale memory off as current truth.** Every project above is a proof of one piece of it.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:63e6be,45:0f766e,100:0b0e13&height=120&section=footer" width="100%" />
 
 </div>
