@@ -93,12 +93,7 @@ A unified gateway across Claude, GPT, Gemini, and Groq — streaming, auth, usag
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lancimoun&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE&icon_color=F1BD5B&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancimoun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63E6BE&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com/?user=Lancimoun&theme=tokyonight&hide_border=true&background=0D1117&stroke=1b2531&ring=63E6BE&fire=F1BD5B&currStreakLabel=63E6BE&sideLabels=c9d1d9&dates=8b96a8" width="70%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lancimoun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Lancimoun&theme=tokyonight&hide_border=true&background=0D1117&stroke=1b2531&ring=63E6BE&fire=F1BD5B&currStreakLabel=63E6BE&sideLabels=c9d1d9&dates=8b96a8" width="72%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lancimoun&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=63E6BE&line=63E6BE&point=F1BD5B&area=true&area_color=0f766e" width="100%" />
 
