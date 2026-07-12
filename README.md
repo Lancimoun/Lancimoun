@@ -45,9 +45,9 @@ class LanceGalicia(AIEngineer):
 
 > Each project proves one property production AI actually needs.
 
-**🧬 [ENGRAM](https://github.com/Lancimoun/engram)** — _memory that can be audited_
+**🧬 [ENGRAM](https://engram-production-1a6b.up.railway.app)** — _memory that can be audited_
 A belief-revision **ledger** + live 3D observatory: what an agent believed, when it changed, what evidence triggered the revision, what decayed, and what was later restored.
-`memory` `provenance` `three.js` `sqlite` — [**Source ›**](https://github.com/Lancimoun/engram)
+`memory` `provenance` `three.js` `sqlite` — [**Live ›**](https://engram-production-1a6b.up.railway.app) · [Source](https://github.com/Lancimoun/engram)
 
 **📑 [LEMMA](https://lemma-production-b84f.up.railway.app)** — _answers that prove themselves_
 Hybrid RAG (dense + BM25 + **RRF fusion**) with **native citations** and a live reliability panel that measures its own recall, latency, and cost.
