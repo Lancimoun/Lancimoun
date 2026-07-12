@@ -53,6 +53,10 @@ A belief-revision **ledger** + live 3D observatory: what an agent believed, when
 Hybrid RAG (dense + BM25 + **RRF fusion**) with **native citations** and a live reliability panel that measures its own recall, latency, and cost.
 `RAG` `citations` `evals` `fastapi` — [**Live ›**](https://lemma-production-b84f.up.railway.app) · [Source](https://github.com/Lancimoun/lemma)
 
+**🔁 [LOOPKIT](https://github.com/Lancimoun/loopkit)** — _agents that govern themselves_
+A file-based operating system for self-improving autonomous work loops: charter, append-only log, fleet dashboard, golden regression set, and a captions airlock. Born from a documented day-one run — including the moment its own audit caught it inflating its numbers and forced a correction commit.
+`agents` `autonomy` `governance` — [**Source ›**](https://github.com/Lancimoun/loopkit)
+
 **🛡️ [Agent Reliability Arena](https://lancimoun.github.io/agent-reliability-arena/)** — _agents that get tested_
 An eval harness that catches stale memory stated as truth, unsupported tool claims, answer drift, and long-horizon trend health.
 `evals` `agents` `observability` — [**Live ›**](https://lancimoun.github.io/agent-reliability-arena/) · [Source](https://github.com/Lancimoun/agent-reliability-arena)
