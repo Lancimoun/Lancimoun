@@ -61,6 +61,10 @@ A file-based operating system for self-improving autonomous work loops: charter,
 An eval harness that catches stale memory stated as truth, unsupported tool claims, answer drift, and long-horizon trend health.
 `evals` `agents` `observability` — [**Live ›**](https://lancimoun.github.io/agent-reliability-arena/) · [Source](https://github.com/Lancimoun/agent-reliability-arena)
 
+**⚙️ [FlowProof](https://github.com/Lancimoun/flowproof)** — _automation that fails safely_
+The operational half of reliability: idempotent intake so a retried webhook creates nothing twice, bounded retries that end in an auditable **dead-letter** state instead of hanging forever, and human approval before ambiguous work runs. Provider-free core — the ledger tests run with no install and no credentials.
+`reliability` `idempotency` `audit trail` `fastapi` — [**Source ›**](https://github.com/Lancimoun/flowproof)
+
 **🤖 [Maxima / FORGE](https://forge-landing-production.up.railway.app)** — _AI that compounds over time_
 Long-horizon companion: persistent memory, current-truth override, tool use, and proactive pattern detection across weeks — not a one-shot chatbot.
 `agents` `long-horizon memory` `tools` — [**Live ›**](https://forge-landing-production.up.railway.app)
