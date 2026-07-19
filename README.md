@@ -50,8 +50,8 @@ A belief-revision **ledger** + live 3D observatory: what an agent believed, when
 `memory` `provenance` `three.js` `sqlite` — [**Live ›**](https://engram-production-1a6b.up.railway.app) · [Source](https://github.com/Lancimoun/engram)
 
 **📑 [LEMMA](https://lemma-production-b84f.up.railway.app)** — _answers that prove themselves_
-Hybrid RAG (dense + BM25 + **RRF fusion**) with **native citations** and a live reliability panel that measures its own recall, latency, and cost.
-`RAG` `citations` `evals` `fastapi` — [**Live ›**](https://lemma-production-b84f.up.railway.app) · [Source](https://github.com/Lancimoun/lemma)
+Hybrid RAG (dense + BM25 + **RRF fusion**) with **native citations**, **bounded multi-hop retrieval** (search-as-a-tool, ≤3 hops — it decides how hard to look and shows its hops), and a live reliability panel that measures its own recall, latency, and cost.
+`RAG` `citations` `multi-hop` `evals` `fastapi` — [**Live ›**](https://lemma-production-b84f.up.railway.app) · [Source](https://github.com/Lancimoun/lemma)
 
 **🔁 [LOOPKIT](https://github.com/Lancimoun/loopkit)** — _agents that govern themselves_
 A file-based operating system for self-improving autonomous work loops: charter, append-only log, fleet dashboard, golden regression set, and a captions airlock. Born from a documented day-one run — including the moment its own audit caught it inflating its numbers and forced a correction commit.
