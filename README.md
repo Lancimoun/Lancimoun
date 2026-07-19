@@ -73,9 +73,9 @@ Long-horizon companion: persistent memory, current-truth override, tool use, and
 A real codebase rendered as a navigable 3D universe — **2,778 nodes · 7,295 connections · 157 systems** — vanilla Three.js with GPU-shader layout over a live knowledge graph.
 `three.js` `dataviz` `webgl` — [**Live ›**](https://forge-neural-map-production.up.railway.app/) · [Source](https://github.com/Lancimoun/forge-neural-map)
 
-**🔀 [Axiom AI](https://github.com/Lancimoun/axiom-ai)** — _one door to every model_
-A unified gateway across Claude, GPT, Gemini, and Groq — streaming, auth, usage tracking, and provider abstraction so apps switch models without a rewrite.
-`gateway` `llm infra` `fastapi` — [**Source ›**](https://github.com/Lancimoun/axiom-ai)
+**🔀 [Axiom AI](https://axiom-ai-production-aaec.up.railway.app/#failure-lab)** — _one door to every model, honest when upstream breaks_
+A unified Claude, GPT, Gemini, and Groq gateway with streaming, auth, usage tracking, and a live Failure Contract Lab: broken streams, missing providers, failed chat turns, and retry ownership made visible from provider-free tests.
+`gateway` `llm infra` `fastapi` `failure contracts` — [**Live ›**](https://axiom-ai-production-aaec.up.railway.app/#failure-lab) · [Source](https://github.com/Lancimoun/axiom-ai)
 
 ---
 
